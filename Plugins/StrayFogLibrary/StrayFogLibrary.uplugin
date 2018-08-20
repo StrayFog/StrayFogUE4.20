@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "StrayFogLibrary",
+	"Description": "StrayFogLibrary",
+	"Category": "Other",
+	"CreatedBy": "StrayFog",
+	"CreatedByURL": "https://blog.csdn.net/baozhenliang",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "StrayFogLibrary",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}

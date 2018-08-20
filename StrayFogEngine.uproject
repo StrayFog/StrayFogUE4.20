@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{757325F6-4E71-483E-CC6A-22A9F2AFEDFA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StrayFogEngine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
